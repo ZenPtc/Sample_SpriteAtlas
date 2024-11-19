@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Equipment
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d8fd15f551ef8074baa64ed25a366e2c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 6ebd2ea079794374f9e272f005a4a374: 21300000
+    - c413c7f03e889ec4981a1132c96b829d: 21300000
+    - ead66bd387484ef4581974c117246959: 21300000
+    - 0cbe68147012af44796f911360e2c3eb: 21300000
+    - 26dc733504d661143af235d6d7834596: 21300000
+    - c5c74bb6621859543ae650cf6095aa4f: 21300000
+    - c00fa0773294ad849917646cac0df86d: 21300000
+    - c6fa43ea217e76b408546e8d694b170a: 21300000
+    - 71ccbe9c76696af4386a6cc2c10612be: 21300000
+    - 5e50aa1f4d3a761428ec8dc6fd60e576: 21300000
+    - 3643e92fc3b9dda4b932265609a66706: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6ebd2ea079794374f9e272f005a4a374, type: 3}
+  - {fileID: 21300000, guid: c413c7f03e889ec4981a1132c96b829d, type: 3}
+  - {fileID: 21300000, guid: ead66bd387484ef4581974c117246959, type: 3}
+  - {fileID: 21300000, guid: 0cbe68147012af44796f911360e2c3eb, type: 3}
+  - {fileID: 21300000, guid: 26dc733504d661143af235d6d7834596, type: 3}
+  - {fileID: 21300000, guid: c5c74bb6621859543ae650cf6095aa4f, type: 3}
+  - {fileID: 21300000, guid: c00fa0773294ad849917646cac0df86d, type: 3}
+  - {fileID: 21300000, guid: c6fa43ea217e76b408546e8d694b170a, type: 3}
+  - {fileID: 21300000, guid: 71ccbe9c76696af4386a6cc2c10612be, type: 3}
+  - {fileID: 21300000, guid: 5e50aa1f4d3a761428ec8dc6fd60e576, type: 3}
+  - {fileID: 21300000, guid: 3643e92fc3b9dda4b932265609a66706, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Leather Helmet
+  - Wizard Hat
+  - Leather Boot
+  - Iron Helmet
+  - Leather Armor
+  - Belt
+  - Bag
+  - Iron Armor
+  - Iron Boot
+  - Helm
+  - Wooden Armor
+  m_RenderDataMap: {}
+  m_Tag: Atlas_Equipment
+  m_IsVariant: 0

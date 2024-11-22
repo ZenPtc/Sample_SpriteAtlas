@@ -6,7 +6,7 @@ SpriteAtlas:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Atlas_Food
+  m_Name: Atlas_Variant_Food
   m_EditorData:
     serializedVersion: 2
     textureSettings:
@@ -30,19 +30,8 @@ SpriteAtlas:
       enableTightPacking: 1
       enableAlphaDilation: 0
     secondaryTextureSettings: {}
-    variantMultiplier: 1
-    packables:
-    - {fileID: 2800000, guid: b4606732340cb87409c09d8a71ddccea, type: 3}
-    - {fileID: 2800000, guid: ced571640a0ac13488be02af7fc1dc49, type: 3}
-    - {fileID: 2800000, guid: ebac96ee08fc58a42a9aa7f97291fcd8, type: 3}
-    - {fileID: 2800000, guid: 86a26eafc3d6a6e43b19009e5cb4bbf1, type: 3}
-    - {fileID: 2800000, guid: a985e4ce5d3dbfc4abd0054f33bf22a0, type: 3}
-    - {fileID: 2800000, guid: eaa6db42ef881974fbf027d48500b622, type: 3}
-    - {fileID: 2800000, guid: a5f8f1bc5833a784d9ac48b8e72d3df8, type: 3}
-    - {fileID: 2800000, guid: c2a366a7e0c1d3244a22bad8431315d8, type: 3}
-    - {fileID: 2800000, guid: ebc2342babe84634388cd8b7d287b848, type: 3}
-    - {fileID: 2800000, guid: ef98d29ef52c8ad42869264fccb12c39, type: 3}
-    - {fileID: 2800000, guid: bd2a3d6f613311740aaa9f48657f90c6, type: 3}
+    variantMultiplier: 0.5
+    packables: []
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -58,7 +47,7 @@ SpriteAtlas:
     - ebac96ee08fc58a42a9aa7f97291fcd8: 21300000
     - bd2a3d6f613311740aaa9f48657f90c6: 21300000
     - 86a26eafc3d6a6e43b19009e5cb4bbf1: 21300000
-  m_MasterAtlas: {fileID: 0}
+  m_MasterAtlas: {fileID: 4343727234628468602, guid: 3ae20382977aa7e4fa469dd07069d280, type: 2}
   m_PackedSprites:
   - {fileID: 21300000, guid: b4606732340cb87409c09d8a71ddccea, type: 3}
   - {fileID: 21300000, guid: eaa6db42ef881974fbf027d48500b622, type: 3}
@@ -85,4 +74,4 @@ SpriteAtlas:
   - Cheese
   m_RenderDataMap: {}
   m_Tag: Atlas_Food
-  m_IsVariant: 0
+  m_IsVariant: 1
